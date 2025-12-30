@@ -103,7 +103,7 @@ Akilli_Trafik_Sistemi/
 └── README.md                # Proje sunumu ve kullanım kılavuzu
 ---
 ```
-![Proje Tanıtım Flayeri](docs/images/Proje Flayeri.png)
+![Proje Tanıtım Flayeri](docs/images/proje_flyeri.png)
 
 ## 👤 Hazırlayanlar:
 
@@ -113,6 +113,7 @@ Akilli_Trafik_Sistemi/
 -Muhammet Sefa Akay 
 -Güven Karataş 
 -Halil Emrah Kaya 
+
 
 
 
