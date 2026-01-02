@@ -19,6 +19,10 @@ Sistemin çalıştığını gösteren simülasyon görüntüleri:
 | :---: | :---: |
 | ![Ekran 1](docs/images/ekran1.png) | ![Ekran 2](docs/images/ekran2.png) |
 
+| Simülasyon Flyer |
+| :---: |
+| ![Ekran 1](docs/images/proje_flyeri.png) | 
+
 ---
 
 ## 🏗️ Yazılım Mimarisi ve Modelleme
@@ -113,6 +117,7 @@ Akilli_Trafik_Sistemi/
 -Muhammet Sefa Akay 
 -Güven Karataş 
 -Halil Emrah Kaya 
+
 
 
 
