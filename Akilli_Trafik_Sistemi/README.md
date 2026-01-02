@@ -19,6 +19,8 @@ Sistemin çalıştığını gösteren simülasyon görüntüleri:
 | Simülasyon Görünümü 1 | Simülasyon Görünümü 2 |
 | :---: | :---: |
 | ![Ekran 1](docs/images/ekran1.png) | ![Ekran 2](docs/images/ekran2.png) |
+| :---: |
+| ![Ekran 2](docs/images/proje_flyeri.png) |
 
 ---
 
@@ -58,8 +60,8 @@ SUMO Simulator kurulu olmalı ve SUMO_HOME ortam değişkeni sisteminizde tanım
 
 1. **Repoyu Klonlayın:**
    ```bash
-   git clone https://github.com/meervesari/Akilli_Trafik_Sistemi.git(PROJE LİNKİ DEĞİŞTİRİLMELİ)
-   cd Akilli_Trafik_Sistemi
+   git clone https://github.com/Atahan-ozturk/Akilli_Trafik_Sistemi_Projesi
+   cd Akilli_Trafik_Sistemi_Projesi
    
 2. **Sanal Ortam Oluşturun:**
    ```bash
