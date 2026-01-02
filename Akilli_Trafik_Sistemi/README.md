@@ -19,11 +19,12 @@ Sistemin çalıştığını gösteren simülasyon görüntüleri:
 | Simülasyon Görünümü 1 | Simülasyon Görünümü 2 |
 | :---: | :---: |
 | ![Ekran 1](docs/images/ekran1.png) | ![Ekran 2](docs/images/ekran2.png) |
+
+---
 | Proje Flyeri |
 | :---: |
 | ![Ekran 3](docs/images/proje_flyeri.png) |
 
----
 
 ## 🏗️ Yazılım Mimarisi ve Modelleme
 
